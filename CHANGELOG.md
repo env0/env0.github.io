@@ -433,4 +433,8 @@
 ## v3.0.722
 
 
-- add helm value to encrypt sensitive values @eranelbaz (#15355)
+- add helm value to encrypt sensitive values @eranelbaz (#15355)&nbsp;
+## v3.0.724
+
+
+- encrypt terraform outputs if the user opt-in @eranelbaz (#15360)

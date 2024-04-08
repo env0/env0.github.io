@@ -445,4 +445,8 @@
 ## v3.0.724
 
 
+- encrypt terraform outputs if the user opt-in @eranelbaz (#15360)&nbsp;
+## v3.0.724
+
+
 - encrypt terraform outputs if the user opt-in @eranelbaz (#15360)

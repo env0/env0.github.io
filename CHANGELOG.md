@@ -449,4 +449,8 @@
 ## v3.0.724
 
 
-- encrypt terraform outputs if the user opt-in @eranelbaz (#15360)
+- encrypt terraform outputs if the user opt-in @eranelbaz (#15360)&nbsp;
+## v3.0.730
+
+
+- Chore - ability to use custom UID for the agent @chpl (#15477)

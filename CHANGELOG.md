@@ -453,4 +453,8 @@
 ## v3.0.730
 
 
+- Chore - ability to use custom UID for the agent @chpl (#15477)&nbsp;
+## v3.0.730
+
+
 - Chore - ability to use custom UID for the agent @chpl (#15477)

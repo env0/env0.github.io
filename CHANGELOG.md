@@ -461,4 +461,8 @@
 ## v3.0.745
 
 
+- chore: add pvc storage configuration request @away168 (#15496)&nbsp;
+## v3.0.745
+
+
 - chore: add pvc storage configuration request @away168 (#15496)

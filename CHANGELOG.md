@@ -457,4 +457,8 @@
 ## v3.0.730
 
 
-- Chore - ability to use custom UID for the agent @chpl (#15477)
+- Chore - ability to use custom UID for the agent @chpl (#15477)&nbsp;
+## v3.0.745
+
+
+- chore: add pvc storage configuration request @away168 (#15496)

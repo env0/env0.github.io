@@ -473,4 +473,8 @@
 ## v3.0.745
 
 
-- chore: add pvc storage configuration request @away168 (#15496)
+- chore: add pvc storage configuration request @away168 (#15496)&nbsp;
+## v3.0.750
+
+
+- Chore: Update agent RBAC @away168 (#15722)

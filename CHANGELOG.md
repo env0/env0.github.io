@@ -485,4 +485,8 @@
 ## v3.0.755
 
 
+- Allow passing/overriding values.yaml secrets via user defined K8s secret @roni-frantchi (#15794)&nbsp;
+## v3.0.755
+
+
 - Allow passing/overriding values.yaml secrets via user defined K8s secret @roni-frantchi (#15794)

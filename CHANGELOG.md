@@ -481,4 +481,8 @@
 ## v3.0.750
 
 
-- Chore: Update agent RBAC @away168 (#15722)
+- Chore: Update agent RBAC @away168 (#15722)&nbsp;
+## v3.0.755
+
+
+- Allow passing/overriding values.yaml secrets via user defined K8s secret @roni-frantchi (#15794)

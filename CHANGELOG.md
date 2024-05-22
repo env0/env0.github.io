@@ -493,4 +493,8 @@
 ## v3.0.757
 
 
+- StateEncryptionKey can be found in K8S Secret @sagydr (#15827)&nbsp;
+## v3.0.757
+
+
 - StateEncryptionKey can be found in K8S Secret @sagydr (#15827)

@@ -505,4 +505,8 @@
 ## v3.0.770
 
 
+- Fix - treat the env vars from k8s secrets as sensitive vars @chpl (#15907)&nbsp;
+## v3.0.770
+
+
 - Fix - treat the env vars from k8s secrets as sensitive vars @chpl (#15907)

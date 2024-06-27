@@ -513,4 +513,8 @@
 ## v3.0.776
 - Stability Improvement&nbsp;
 ## v3.0.776
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.790
+
+
+- make cpu limits optional @away168 (#15793)

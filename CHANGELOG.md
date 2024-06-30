@@ -525,4 +525,8 @@
 ## v3.0.790
 
 
-- make cpu limits optional @away168 (#15793)
+- make cpu limits optional @away168 (#15793)&nbsp;
+## v3.0.791
+
+
+- Chore: runAsUser and runAsGroup as Int @away168 (#15750)

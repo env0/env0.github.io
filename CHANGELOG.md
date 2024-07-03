@@ -537,4 +537,8 @@
 ## v3.0.796
 
 
+-  CHORE: remove tofu versions token from docker image @tomer-landesman (#16236)&nbsp;
+## v3.0.796
+
+
 -  CHORE: remove tofu versions token from docker image @tomer-landesman (#16236)

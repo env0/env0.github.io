@@ -557,4 +557,8 @@
 ## v3.0.833
 
 
+- Fix: Agent http proxy OOM @avnerenv0 (#16593)&nbsp;
+## v3.0.833
+
+
 - Fix: Agent http proxy OOM @avnerenv0 (#16593)

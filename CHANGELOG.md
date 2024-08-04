@@ -549,4 +549,8 @@
 ## v3.0.832
 
 
+- Chore: Update karpenter annotation to new key @avnerenv0 (#16537)&nbsp;
+## v3.0.832
+
+
 - Chore: Update karpenter annotation to new key @avnerenv0 (#16537)

@@ -545,4 +545,8 @@
 ## v3.0.804
 
 
-- feat: add InitContainer / Custom Volume Mount @away168 (#15938)
+- feat: add InitContainer / Custom Volume Mount @away168 (#15938)&nbsp;
+## v3.0.832
+
+
+- Chore: Update karpenter annotation to new key @avnerenv0 (#16537)

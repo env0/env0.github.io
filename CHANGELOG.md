@@ -566,4 +566,9 @@
 
 
 - feat use oidc for aws ssm @alonnoga (#16330)
+- Chore: Sunset EFS - Part 2 @yaronya (#16656)&nbsp;
+## v3.0.839
+
+
+- feat use oidc for aws ssm @alonnoga (#16330)
 - Chore: Sunset EFS - Part 2 @yaronya (#16656)

@@ -585,4 +585,8 @@
 ## v3.0.851
 
 
+- Chore: support deployment toleration @Wassap124 (#16791)&nbsp;
+## v3.0.851
+
+
 - Chore: support deployment toleration @Wassap124 (#16791)

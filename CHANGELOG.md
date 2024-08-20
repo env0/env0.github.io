@@ -581,4 +581,8 @@
 
 
 - feat use oidc for aws ssm @alonnoga (#16330)
-- Chore: Sunset EFS - Part 2 @yaronya (#16656)
+- Chore: Sunset EFS - Part 2 @yaronya (#16656)&nbsp;
+## v3.0.851
+
+
+- Chore: support deployment toleration @Wassap124 (#16791)

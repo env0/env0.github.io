@@ -593,4 +593,8 @@
 ## v3.0.854
 
 
+- Chore: Agent Helm Chart - add resource contraints to initcontainer @GiliFaroEnv0 (#16799)&nbsp;
+## v3.0.854
+
+
 - Chore: Agent Helm Chart - add resource contraints to initcontainer @GiliFaroEnv0 (#16799)

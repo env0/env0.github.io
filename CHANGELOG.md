@@ -589,4 +589,8 @@
 ## v3.0.851
 
 
-- Chore: support deployment toleration @Wassap124 (#16791)
+- Chore: support deployment toleration @Wassap124 (#16791)&nbsp;
+## v3.0.854
+
+
+- Chore: Agent Helm Chart - add resource contraints to initcontainer @GiliFaroEnv0 (#16799)

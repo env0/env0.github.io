@@ -597,4 +597,8 @@
 ## v3.0.854
 
 
-- Chore: Agent Helm Chart - add resource contraints to initcontainer @GiliFaroEnv0 (#16799)
+- Chore: Agent Helm Chart - add resource contraints to initcontainer @GiliFaroEnv0 (#16799)&nbsp;
+## v3.0.858
+
+
+- Chore: Allow override OIDC SSM credentials for SHAG @GiliFaroEnv0 (#16830)

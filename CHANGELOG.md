@@ -606,4 +606,9 @@
 
 
 - FEAT: add GetSensitiveVariables lambda for agent @tomer-landesman (#16907)
+- Chore: Add k8s version logs @yaronya (#16929)&nbsp;
+## v3.0.867
+
+
+- FEAT: add GetSensitiveVariables lambda for agent @tomer-landesman (#16907)
 - Chore: Add k8s version logs @yaronya (#16929)

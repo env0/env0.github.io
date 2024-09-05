@@ -601,4 +601,9 @@
 ## v3.0.858
 
 
-- Chore: Allow override OIDC SSM credentials for SHAG @GiliFaroEnv0 (#16830)
+- Chore: Allow override OIDC SSM credentials for SHAG @GiliFaroEnv0 (#16830)&nbsp;
+## v3.0.867
+
+
+- FEAT: add GetSensitiveVariables lambda for agent @tomer-landesman (#16907)
+- Chore: Add k8s version logs @yaronya (#16929)

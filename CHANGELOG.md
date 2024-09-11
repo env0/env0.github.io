@@ -611,4 +611,8 @@
 
 
 - FEAT: add GetSensitiveVariables lambda for agent @tomer-landesman (#16907)
-- Chore: Add k8s version logs @yaronya (#16929)
+- Chore: Add k8s version logs @yaronya (#16929)&nbsp;
+## v3.0.873
+
+
+- Chore: Improve agent proxy ability to handle high load @chpl (#16947)

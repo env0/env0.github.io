@@ -615,4 +615,8 @@
 ## v3.0.873
 
 
+- Chore: Improve agent proxy ability to handle high load @chpl (#16947)&nbsp;
+## v3.0.873
+
+
 - Chore: Improve agent proxy ability to handle high load @chpl (#16947)

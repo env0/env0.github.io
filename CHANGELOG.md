@@ -619,4 +619,8 @@
 ## v3.0.873
 
 
-- Chore: Improve agent proxy ability to handle high load @chpl (#16947)
+- Chore: Improve agent proxy ability to handle high load @chpl (#16947)&nbsp;
+## v3.0.876
+
+
+- Chore: add new agentImagePullSecretRef helm value @yaronya (#17022)

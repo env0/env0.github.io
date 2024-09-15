@@ -623,4 +623,8 @@
 ## v3.0.876
 
 
+- Chore: add new agentImagePullSecretRef helm value @yaronya (#17022)&nbsp;
+## v3.0.876
+
+
 - Chore: add new agentImagePullSecretRef helm value @yaronya (#17022)

@@ -635,4 +635,8 @@
 ## v3.0.877
 
 
+- Chore: Remove unused agent_image_pull_secret TF var @yaronya (#17048)&nbsp;
+## v3.0.877
+
+
 - Chore: Remove unused agent_image_pull_secret TF var @yaronya (#17048)

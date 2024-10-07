@@ -643,4 +643,8 @@
 ## v3.0.887
 - Stability Improvement&nbsp;
 ## v3.0.887
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.892
+
+
+- Chore: Change k8s CronJob api to batch/v1 @yaronya (#17236)

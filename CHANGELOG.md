@@ -661,4 +661,6 @@
 
 - Chore: Change k8s CronJob api to batch/v1 @yaronya (#17236)&nbsp;
 ## v3.0.915
+- Stability Improvement&nbsp;
+## v3.0.915
 - Stability Improvement

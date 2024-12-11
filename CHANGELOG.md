@@ -673,4 +673,8 @@
 ## v3.0.942
 
 
+- feat - support passphrase for Vault login @tomporat247 (#17646)&nbsp;
+## v3.0.942
+
+
 - feat - support passphrase for Vault login @tomporat247 (#17646)

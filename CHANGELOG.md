@@ -669,4 +669,8 @@
 ## v3.0.933
 - Stability Improvement&nbsp;
 ## v3.0.933
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.942
+
+
+- feat - support passphrase for Vault login @tomporat247 (#17646)

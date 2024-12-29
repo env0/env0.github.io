@@ -681,4 +681,8 @@
 ## v3.0.944
 
 
-- Chore: add ignore ssl in proxy pod @ItamarMalka (#17722)
+- Chore: add ignore ssl in proxy pod @ItamarMalka (#17722)&nbsp;
+## v3.0.960
+
+
+- Chore change table class of dynamodb @omry-hay (#17815)

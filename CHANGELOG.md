@@ -685,4 +685,8 @@
 ## v3.0.960
 
 
+- Chore change table class of dynamodb @omry-hay (#17815)&nbsp;
+## v3.0.960
+
+
 - Chore change table class of dynamodb @omry-hay (#17815)

@@ -697,4 +697,8 @@
 ## v3.0.969
 
 
+- Feat: Create UpdateStateResources Lambda stub @liranfarage89 (#17873)&nbsp;
+## v3.0.969
+
+
 - Feat: Create UpdateStateResources Lambda stub @liranfarage89 (#17873)

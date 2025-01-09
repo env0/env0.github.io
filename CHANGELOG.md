@@ -713,4 +713,8 @@
 ## v3.0.970
 
 
+- Chore: Add OCI helm values @ItamarMalka (#17885)&nbsp;
+## v3.0.970
+
+
 - Chore: Add OCI helm values @ItamarMalka (#17885)

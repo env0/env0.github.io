@@ -745,4 +745,9 @@
 ## v3.0.985
 
 
-- Chore: Remove CRON_JOB_API from agent trigger pod @yaronya (#18019)
+- Chore: Remove CRON_JOB_API from agent trigger pod @yaronya (#18019)&nbsp;
+## v3.0.987
+
+
+- Chore: Add CA certificates to the trigger pod @RLRabinowitz (#18027)
+- Chore: module usage - resolve modules @sagilaufer1992 (#17956)

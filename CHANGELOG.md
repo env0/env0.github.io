@@ -737,4 +737,8 @@
 ## v3.0.978
 
 
-- Chore: state resource calculate compass id @HeverFarber (#17951)
+- Chore: state resource calculate compass id @HeverFarber (#17951)&nbsp;
+## v3.0.985
+
+
+- Chore: Remove CRON_JOB_API from agent trigger pod @yaronya (#18019)

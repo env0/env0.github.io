@@ -741,4 +741,8 @@
 ## v3.0.985
 
 
+- Chore: Remove CRON_JOB_API from agent trigger pod @yaronya (#18019)&nbsp;
+## v3.0.985
+
+
 - Chore: Remove CRON_JOB_API from agent trigger pod @yaronya (#18019)
